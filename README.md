@@ -9,8 +9,6 @@ Een eenvoudig te gebruiken bot voor jouw server! De bot bevat: muziek, moderatie
 - ⭐ Goede kwaliteit
 - 👑 25+ Systemen
 
-<img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true" />
-
 ## Codeer Talen
 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
